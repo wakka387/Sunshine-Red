@@ -1,0 +1,12 @@
+<ArrayOfZoneJurisdiction xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ZoneJurisdiction>
+    <ZoneInternalGameName>MFLSB</ZoneInternalGameName>
+    <AgencyID>AMBIENT_GANG_ARMENIAN</AgencyID>
+    <Priority>0</Priority>
+    <AmbientSpawnChance>100</AmbientSpawnChance>
+    <WantedSpawnChance>100</WantedSpawnChance>
+    <CanSpawnPedestrianOfficers>false</CanSpawnPedestrianOfficers>
+    <CanSpawnBicycleOfficers>false</CanSpawnBicycleOfficers>
+    <CanSpawnDirtBikeOfficers>false</CanSpawnDirtBikeOfficers>
+  </ZoneJurisdiction>
+</ArrayOfZoneJurisdiction>

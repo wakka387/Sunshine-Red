@@ -1,0 +1,396 @@
+<ArrayOfAgency xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Agency>
+    <ID>VCPD</ID>
+    <FullName>Vice City Police Department</FullName>
+    <ShortName>VCPD</ShortName>
+    <MemberName>VCPD Officer</MemberName>
+    <Classification>Police</Classification>
+    <Division>1</Division>
+    <ColorPrefix>~b~</ColorPrefix>
+    <ColorString>Blue</ColorString>
+    <LicensePlatePrefix>VCPD </LicensePlatePrefix>
+    <SpawnLimit>99</SpawnLimit>
+    <CanSpawnAnywhere>false</CanSpawnAnywhere>
+    <SpawnsOnHighway>false</SpawnsOnHighway>
+    <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+    <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
+    <CanDispatchOffDuty>true</CanDispatchOffDuty>
+    <HeadDataGroupID>AllHeads</HeadDataGroupID>
+    <PersonnelID>VCPDPeds</PersonnelID>
+    <LessLethalWeaponsID>Tasers</LessLethalWeaponsID>
+    <SideArmsID>AllSidearms</SideArmsID>
+    <LongGunsID>AllLongGuns</LongGunsID>
+    <VehiclesID>VCPDVehicles</VehiclesID>
+    <OffDutyDispatchPercent>1</OffDutyDispatchPercent>
+    <OffDutyPersonnelID>OffDutyCops</OffDutyPersonnelID>
+    <OffDutyVehiclesID>OffDutyCopVehicles</OffDutyVehiclesID>
+  </Agency>
+  <Agency>
+    <ID>VCPD-ASD</ID>
+    <FullName>Vice City Police Department - Air Support Division</FullName>
+    <ShortName>VCPD-ASD</ShortName>
+    <MemberName>VCPD Officer</MemberName>
+    <Classification>Police</Classification>
+    <Division>6</Division>
+    <ColorPrefix>~b~</ColorPrefix>
+    <ColorString>Blue</ColorString>
+    <LicensePlatePrefix>ASD </LicensePlatePrefix>
+    <SpawnLimit>99</SpawnLimit>
+    <CanSpawnAnywhere>false</CanSpawnAnywhere>
+    <SpawnsOnHighway>false</SpawnsOnHighway>
+    <MinWantedLevelSpawn>3</MinWantedLevelSpawn>
+    <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
+    <CanDispatchOffDuty>true</CanDispatchOffDuty>
+    <HeadDataGroupID>AllHeads</HeadDataGroupID>
+    <PersonnelID>VCPDHeliPeds</PersonnelID>
+    <LessLethalWeaponsID>Tasers</LessLethalWeaponsID>
+    <SideArmsID>HeliSidearms</SideArmsID>
+    <LongGunsID>HeliLongGuns</LongGunsID>
+    <VehiclesID>VCPDHeliVehicles</VehiclesID>
+    <OffDutyDispatchPercent>0</OffDutyDispatchPercent>
+  </Agency>
+  <Agency>
+    <ID>NYSP</ID>
+    <FullName>North Yankton State Patrol</FullName>
+    <ShortName>NYSP</ShortName>
+    <MemberName>NYSP Officer</MemberName>
+    <Classification>Police</Classification>
+    <Division>-1</Division>
+    <ColorPrefix>~b~</ColorPrefix>
+    <ColorString>Blue</ColorString>
+    <LicensePlatePrefix>NYSP </LicensePlatePrefix>
+    <SpawnLimit>99</SpawnLimit>
+    <CanSpawnAnywhere>false</CanSpawnAnywhere>
+    <SpawnsOnHighway>false</SpawnsOnHighway>
+    <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+    <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
+    <CanDispatchOffDuty>true</CanDispatchOffDuty>
+    <HeadDataGroupID>AllHeads</HeadDataGroupID>
+    <PersonnelID>NYSPPeds</PersonnelID>
+    <LessLethalWeaponsID>Nightsticks</LessLethalWeaponsID>
+    <SideArmsID>LimitedSidearms</SideArmsID>
+    <LongGunsID>LimitedLongGuns</LongGunsID>
+    <VehiclesID>NYSPVehicles</VehiclesID>
+    <OffDutyDispatchPercent>1</OffDutyDispatchPercent>
+    <OffDutyPersonnelID>OffDutyCops</OffDutyPersonnelID>
+    <OffDutyVehiclesID>OffDutyCopVehicles</OffDutyVehiclesID>
+  </Agency>
+  <Agency>
+    <ID>NOOSE</ID>
+    <FullName>National Office of Security Enforcement</FullName>
+    <ShortName>NOOSE</ShortName>
+    <MemberName>NOOSE Officer</MemberName>
+    <Classification>Federal</Classification>
+    <Division>-1</Division>
+    <ColorPrefix>~r~</ColorPrefix>
+    <ColorString>DarkSlateGray</ColorString>
+    <LicensePlatePrefix />
+    <SpawnLimit>99</SpawnLimit>
+    <CanSpawnAnywhere>true</CanSpawnAnywhere>
+    <SpawnsOnHighway>false</SpawnsOnHighway>
+    <MinWantedLevelSpawn>4</MinWantedLevelSpawn>
+    <MaxWantedLevelSpawn>5</MaxWantedLevelSpawn>
+    <CanDispatchOffDuty>true</CanDispatchOffDuty>
+    <HeadDataGroupID>AllHeads</HeadDataGroupID>
+    <PersonnelID>NOOSEPeds</PersonnelID>
+    <LessLethalWeaponsID>Tasers</LessLethalWeaponsID>
+    <SideArmsID>BestSidearms</SideArmsID>
+    <LongGunsID>BestLongGuns</LongGunsID>
+    <VehiclesID>NOOSEVehicles</VehiclesID>
+    <OffDutyDispatchPercent>0</OffDutyDispatchPercent>
+  </Agency>
+  <Agency>
+    <ID>FIB</ID>
+    <FullName>Federal Investigation Bureau</FullName>
+    <ShortName>FIB</ShortName>
+    <MemberName>FIB Agent</MemberName>
+    <Classification>Federal</Classification>
+    <Division>-1</Division>
+    <ColorPrefix>~p~</ColorPrefix>
+    <ColorString>Purple</ColorString>
+    <LicensePlatePrefix>FIB </LicensePlatePrefix>
+    <SpawnLimit>6</SpawnLimit>
+    <CanSpawnAnywhere>true</CanSpawnAnywhere>
+    <SpawnsOnHighway>false</SpawnsOnHighway>
+    <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+    <MaxWantedLevelSpawn>5</MaxWantedLevelSpawn>
+    <CanDispatchOffDuty>true</CanDispatchOffDuty>
+    <HeadDataGroupID>AllHeads</HeadDataGroupID>
+    <PersonnelID>FIBPeds</PersonnelID>
+    <LessLethalWeaponsID>Tasers</LessLethalWeaponsID>
+    <SideArmsID>BestSidearms</SideArmsID>
+    <LongGunsID>BestLongGuns</LongGunsID>
+    <VehiclesID>FIBVehicles</VehiclesID>
+    <OffDutyDispatchPercent>0</OffDutyDispatchPercent>
+  </Agency>
+  <Agency>
+    <ID>DOA</ID>
+    <FullName>Drug Observation Agency</FullName>
+    <ShortName>DOA</ShortName>
+    <MemberName>DOA Agent</MemberName>
+    <Classification>Federal</Classification>
+    <Division>-1</Division>
+    <ColorPrefix>~p~</ColorPrefix>
+    <ColorString>Purple</ColorString>
+    <LicensePlatePrefix>DOA </LicensePlatePrefix>
+    <SpawnLimit>4</SpawnLimit>
+    <CanSpawnAnywhere>true</CanSpawnAnywhere>
+    <SpawnsOnHighway>false</SpawnsOnHighway>
+    <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+    <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
+    <CanDispatchOffDuty>true</CanDispatchOffDuty>
+    <HeadDataGroupID>AllHeads</HeadDataGroupID>
+    <PersonnelID>DOAPeds</PersonnelID>
+    <LessLethalWeaponsID>Tasers</LessLethalWeaponsID>
+    <SideArmsID>AllSidearms</SideArmsID>
+    <LongGunsID>AllLongGuns</LongGunsID>
+    <VehiclesID>UnmarkedVehicles</VehiclesID>
+    <OffDutyDispatchPercent>0</OffDutyDispatchPercent>
+  </Agency>
+  <Agency>
+    <ID>ARMY</ID>
+    <FullName>U.S. Army</FullName>
+    <ShortName>ARMY</ShortName>
+    <MemberName>Soldier</MemberName>
+    <Classification>Military</Classification>
+    <Division>-1</Division>
+    <ColorPrefix>~u~</ColorPrefix>
+    <ColorString>Black</ColorString>
+    <LicensePlatePrefix />
+    <SpawnLimit>99</SpawnLimit>
+    <CanSpawnAnywhere>true</CanSpawnAnywhere>
+    <SpawnsOnHighway>false</SpawnsOnHighway>
+    <MinWantedLevelSpawn>6</MinWantedLevelSpawn>
+    <MaxWantedLevelSpawn>10</MaxWantedLevelSpawn>
+    <CanDispatchOffDuty>true</CanDispatchOffDuty>
+    <HeadDataGroupID>AllHeads</HeadDataGroupID>
+    <PersonnelID>ArmyPeds</PersonnelID>
+    <SideArmsID>MilitarySidearms</SideArmsID>
+    <LongGunsID>MilitaryLongGuns</LongGunsID>
+    <VehiclesID>ArmyVehicles</VehiclesID>
+    <OffDutyDispatchPercent>0</OffDutyDispatchPercent>
+  </Agency>
+  <Agency>
+    <ID>USMC</ID>
+    <FullName>U.S. Marine Corps</FullName>
+    <ShortName>USMC</ShortName>
+    <MemberName>Marine</MemberName>
+    <Classification>Military</Classification>
+    <Division>-1</Division>
+    <ColorPrefix>~u~</ColorPrefix>
+    <ColorString>Black</ColorString>
+    <LicensePlatePrefix />
+    <SpawnLimit>99</SpawnLimit>
+    <CanSpawnAnywhere>true</CanSpawnAnywhere>
+    <SpawnsOnHighway>false</SpawnsOnHighway>
+    <MinWantedLevelSpawn>6</MinWantedLevelSpawn>
+    <MaxWantedLevelSpawn>10</MaxWantedLevelSpawn>
+    <CanDispatchOffDuty>true</CanDispatchOffDuty>
+    <HeadDataGroupID>AllHeads</HeadDataGroupID>
+    <PersonnelID>USMCPeds</PersonnelID>
+    <SideArmsID>MilitarySidearms</SideArmsID>
+    <LongGunsID>MilitaryLongGuns</LongGunsID>
+    <VehiclesID>USMCVehicles</VehiclesID>
+    <OffDutyDispatchPercent>0</OffDutyDispatchPercent>
+  </Agency>
+  <Agency>
+    <ID>USAF</ID>
+    <FullName>U.S. Air Force</FullName>
+    <ShortName>USAF</ShortName>
+    <MemberName>Airman</MemberName>
+    <Classification>Military</Classification>
+    <Division>-1</Division>
+    <ColorPrefix>~u~</ColorPrefix>
+    <ColorString>Black</ColorString>
+    <LicensePlatePrefix />
+    <SpawnLimit>99</SpawnLimit>
+    <CanSpawnAnywhere>true</CanSpawnAnywhere>
+    <SpawnsOnHighway>false</SpawnsOnHighway>
+    <MinWantedLevelSpawn>6</MinWantedLevelSpawn>
+    <MaxWantedLevelSpawn>10</MaxWantedLevelSpawn>
+    <CanDispatchOffDuty>true</CanDispatchOffDuty>
+    <HeadDataGroupID>AllHeads</HeadDataGroupID>
+    <PersonnelID>USAFPeds</PersonnelID>
+    <SideArmsID>MilitarySidearms</SideArmsID>
+    <LongGunsID>MilitaryLongGuns</LongGunsID>
+    <VehiclesID>USAFVehicles</VehiclesID>
+    <OffDutyDispatchPercent>0</OffDutyDispatchPercent>
+  </Agency>
+  <Agency>
+    <ID>USMS</ID>
+    <FullName>US Marshals Service</FullName>
+    <ShortName>Marshals Service</ShortName>
+    <MemberName>Marshals Service Officer</MemberName>
+    <Classification>Marshal</Classification>
+    <Division>-1</Division>
+    <ColorPrefix>~r~</ColorPrefix>
+    <ColorString>DarkSlateGray</ColorString>
+    <LicensePlatePrefix />
+    <SpawnLimit>99</SpawnLimit>
+    <CanSpawnAnywhere>true</CanSpawnAnywhere>
+    <SpawnsOnHighway>false</SpawnsOnHighway>
+    <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+    <MaxWantedLevelSpawn>3</MaxWantedLevelSpawn>
+    <CanDispatchOffDuty>true</CanDispatchOffDuty>
+    <HeadDataGroupID>AllHeads</HeadDataGroupID>
+    <PersonnelID>MarshalsServicePeds</PersonnelID>
+    <LessLethalWeaponsID>Tasers</LessLethalWeaponsID>
+    <SideArmsID>BestSidearms</SideArmsID>
+    <LongGunsID>BestLongGuns</LongGunsID>
+    <VehiclesID>MarshalsServiceVehicles</VehiclesID>
+    <OffDutyDispatchPercent>0</OffDutyDispatchPercent>
+  </Agency>
+  <Agency>
+    <ID>FDVC</ID>
+    <FullName>Vice City Fire Department</FullName>
+    <ShortName>FDVC</ShortName>
+    <MemberName>FDLC Firefighter</MemberName>
+    <Classification>Fire</Classification>
+    <Division>-1</Division>
+    <ColorPrefix>~r~</ColorPrefix>
+    <ColorString>Red</ColorString>
+    <LicensePlatePrefix>FD </LicensePlatePrefix>
+    <SpawnLimit>99</SpawnLimit>
+    <CanSpawnAnywhere>true</CanSpawnAnywhere>
+    <SpawnsOnHighway>false</SpawnsOnHighway>
+    <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+    <MaxWantedLevelSpawn>0</MaxWantedLevelSpawn>
+    <CanDispatchOffDuty>true</CanDispatchOffDuty>
+    <HeadDataGroupID>AllHeads</HeadDataGroupID>
+    <PersonnelID>Firefighters</PersonnelID>
+    <LessLethalWeaponsID>FireExtinguisher</LessLethalWeaponsID>
+    <VehiclesID>Firetrucks</VehiclesID>
+    <OffDutyDispatchPercent>0</OffDutyDispatchPercent>
+  </Agency>
+  <Agency>
+    <ID>VCMC</ID>
+    <FullName>Vice City Medical Center</FullName>
+    <ShortName>VCMC</ShortName>
+    <MemberName>LCMC EMT</MemberName>
+    <Classification>EMS</Classification>
+    <Division>-1</Division>
+    <ColorPrefix>~w~</ColorPrefix>
+    <ColorString>White</ColorString>
+    <LicensePlatePrefix>MC </LicensePlatePrefix>
+    <SpawnLimit>99</SpawnLimit>
+    <CanSpawnAnywhere>true</CanSpawnAnywhere>
+    <SpawnsOnHighway>false</SpawnsOnHighway>
+    <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+    <MaxWantedLevelSpawn>0</MaxWantedLevelSpawn>
+    <CanDispatchOffDuty>true</CanDispatchOffDuty>
+    <HeadDataGroupID>AllHeads</HeadDataGroupID>
+    <PersonnelID>BlueEMTs</PersonnelID>
+    <VehiclesID>Amublance1</VehiclesID>
+    <OffDutyDispatchPercent>0</OffDutyDispatchPercent>
+  </Agency>
+  <Agency>
+    <ID>GRP6</ID>
+    <FullName>Gruppe Sechs</FullName>
+    <ShortName>G6</ShortName>
+    <MemberName>Gruppe Sechs Officer</MemberName>
+    <Classification>Security</Classification>
+    <Division>-1</Division>
+    <ColorPrefix>~g~</ColorPrefix>
+    <ColorString>Green</ColorString>
+    <LicensePlatePrefix>GS </LicensePlatePrefix>
+    <SpawnLimit>99</SpawnLimit>
+    <CanSpawnAnywhere>false</CanSpawnAnywhere>
+    <SpawnsOnHighway>false</SpawnsOnHighway>
+    <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+    <MaxWantedLevelSpawn>2</MaxWantedLevelSpawn>
+    <CanDispatchOffDuty>true</CanDispatchOffDuty>
+    <HeadDataGroupID>AllHeads</HeadDataGroupID>
+    <PersonnelID>GruppeSechsPeds</PersonnelID>
+    <LessLethalWeaponsID>Tasers</LessLethalWeaponsID>
+    <SideArmsID>LimitedSidearms</SideArmsID>
+    <VehiclesID>GroupSechsVehicles</VehiclesID>
+    <OffDutyDispatchPercent>0</OffDutyDispatchPercent>
+  </Agency>
+  <Agency>
+    <ID>SECURO</ID>
+    <FullName>SecuroServ</FullName>
+    <ShortName>SecuroServ</ShortName>
+    <MemberName>SecuroServ Officer</MemberName>
+    <Classification>Security</Classification>
+    <Division>-1</Division>
+    <ColorPrefix>~b~</ColorPrefix>
+    <ColorString>Black</ColorString>
+    <LicensePlatePrefix>SS </LicensePlatePrefix>
+    <SpawnLimit>99</SpawnLimit>
+    <CanSpawnAnywhere>false</CanSpawnAnywhere>
+    <SpawnsOnHighway>false</SpawnsOnHighway>
+    <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+    <MaxWantedLevelSpawn>2</MaxWantedLevelSpawn>
+    <CanDispatchOffDuty>true</CanDispatchOffDuty>
+    <HeadDataGroupID>AllHeads</HeadDataGroupID>
+    <PersonnelID>SecuroservPeds</PersonnelID>
+    <LessLethalWeaponsID>Tasers</LessLethalWeaponsID>
+    <SideArmsID>LimitedSidearms</SideArmsID>
+    <VehiclesID>SecuroservVehicles</VehiclesID>
+    <OffDutyDispatchPercent>0</OffDutyDispatchPercent>
+  </Agency>
+  <Agency>
+    <ID>MERRY</ID>
+    <FullName>Merryweather Security</FullName>
+    <ShortName>Merryweather</ShortName>
+    <MemberName>Merryweather Officer</MemberName>
+    <Classification>Security</Classification>
+    <Division>-1</Division>
+    <ColorPrefix>~w~</ColorPrefix>
+    <ColorString>White</ColorString>
+    <LicensePlatePrefix>MW </LicensePlatePrefix>
+    <SpawnLimit>99</SpawnLimit>
+    <CanSpawnAnywhere>false</CanSpawnAnywhere>
+    <SpawnsOnHighway>false</SpawnsOnHighway>
+    <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+    <MaxWantedLevelSpawn>2</MaxWantedLevelSpawn>
+    <CanDispatchOffDuty>true</CanDispatchOffDuty>
+    <HeadDataGroupID>AllHeads</HeadDataGroupID>
+    <PersonnelID>MerryweatherSecurityPeds</PersonnelID>
+    <LessLethalWeaponsID>Tasers</LessLethalWeaponsID>
+    <SideArmsID>LimitedSidearms</SideArmsID>
+    <VehiclesID>MerryweatherPatrolVehicles</VehiclesID>
+    <OffDutyDispatchPercent>0</OffDutyDispatchPercent>
+  </Agency>
+  <Agency>
+    <ID>BOBCAT</ID>
+    <FullName>Bobcat Security</FullName>
+    <ShortName>Bobcat</ShortName>
+    <MemberName>Bobcat Officer</MemberName>
+    <Classification>Security</Classification>
+    <Division>-1</Division>
+    <ColorPrefix>~w~</ColorPrefix>
+    <ColorString>White</ColorString>
+    <LicensePlatePrefix>BC </LicensePlatePrefix>
+    <SpawnLimit>99</SpawnLimit>
+    <CanSpawnAnywhere>false</CanSpawnAnywhere>
+    <SpawnsOnHighway>false</SpawnsOnHighway>
+    <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+    <MaxWantedLevelSpawn>2</MaxWantedLevelSpawn>
+    <CanDispatchOffDuty>true</CanDispatchOffDuty>
+    <HeadDataGroupID>AllHeads</HeadDataGroupID>
+    <PersonnelID>BobcatPeds</PersonnelID>
+    <LessLethalWeaponsID>Tasers</LessLethalWeaponsID>
+    <SideArmsID>LimitedSidearms</SideArmsID>
+    <VehiclesID>BobcatSecurityVehicles</VehiclesID>
+    <OffDutyDispatchPercent>0</OffDutyDispatchPercent>
+  </Agency>
+  <Agency>
+    <ID>UNK</ID>
+    <FullName>Unknown Agency</FullName>
+    <ShortName>UNK</ShortName>
+    <MemberName>Officer</MemberName>
+    <Classification>Other</Classification>
+    <Division>-1</Division>
+    <ColorPrefix>~s~</ColorPrefix>
+    <ColorString>White</ColorString>
+    <LicensePlatePrefix />
+    <SpawnLimit>99</SpawnLimit>
+    <CanSpawnAnywhere>false</CanSpawnAnywhere>
+    <SpawnsOnHighway>false</SpawnsOnHighway>
+    <MinWantedLevelSpawn>0</MinWantedLevelSpawn>
+    <MaxWantedLevelSpawn>0</MaxWantedLevelSpawn>
+    <CanDispatchOffDuty>true</CanDispatchOffDuty>
+    <OffDutyDispatchPercent>0</OffDutyDispatchPercent>
+  </Agency>
+</ArrayOfAgency>

@@ -1,0 +1,675 @@
+<ArrayOfStreet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Street>
+    <Name>Alton Rd</Name>
+    <SpeedLimit>50</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>63rd Street</Name>
+    <SpeedLimit>35</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>63rd St</DisplayName>
+  </Street>
+  <Street>
+    <Name>41st Street</Name>
+    <SpeedLimit>35</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>41st St</DisplayName>
+  </Street>
+  <Street>
+    <Name>23rd Street</Name>
+    <SpeedLimit>35</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>23rd St</DisplayName>
+  </Street>
+  <Street>
+    <Name>21st Street</Name>
+    <SpeedLimit>35</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>21st St</DisplayName>
+  </Street>
+  <Street>
+    <Name>17th Street</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>17th St</DisplayName>
+  </Street>
+  <Street>
+    <Name>16th Street</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>16th St</DisplayName>
+  </Street>
+  <Street>
+    <Name>15th Street</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>15th St</DisplayName>
+  </Street>
+  <Street>
+    <Name>14th Street</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>14th St</DisplayName>
+  </Street>
+  <Street>
+    <Name>14th Place</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>14th Pl</DisplayName>
+  </Street>
+  <Street>
+    <Name>13th Street</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>13th St</DisplayName>
+  </Street>
+  <Street>
+    <Name>12th Street</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>12th St</DisplayName>
+  </Street>
+  <Street>
+    <Name>11th Street</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>11th St</DisplayName>
+  </Street>
+  <Street>
+    <Name>10th Street</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>10th St</DisplayName>
+  </Street>
+  <Street>
+    <Name>9th Street</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>9th St</DisplayName>
+  </Street>
+  <Street>
+    <Name>8th Street</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>8th St</DisplayName>
+  </Street>
+  <Street>
+    <Name>7th Street</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>7th St</DisplayName>
+  </Street>
+  <Street>
+    <Name>6th Street</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>6th St</DisplayName>
+  </Street>
+  <Street>
+    <Name>5th Street</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>5th St</DisplayName>
+  </Street>
+  <Street>
+    <Name>4th Street</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>4th St</DisplayName>
+  </Street>
+  <Street>
+    <Name>3rd Street</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>3rd St</DisplayName>
+  </Street>
+  <Street>
+    <Name>2nd Street</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>2nd St</DisplayName>
+  </Street>
+  <Street>
+    <Name>1st Street</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>1st St</DisplayName>
+  </Street>
+  <Street>
+    <Name>South Point Drive</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>South Point Dr</DisplayName>
+  </Street>
+  <Street>
+    <Name>North Miami Drive</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>N Miami Dr</DisplayName>
+  </Street>
+  <Street>
+    <Name>Ocean Drive</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>Ocean Dr</DisplayName>
+  </Street>
+  <Street>
+    <Name>Washington Ave</Name>
+    <SpeedLimit>35</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>Michigan Ave</Name>
+    <SpeedLimit>35</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>6th Dilido Terrace</Name>
+    <SpeedLimit>25</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>6th Dilido Tr</DisplayName>
+  </Street>
+  <Street>
+    <Name>5th Dilido Terrace</Name>
+    <SpeedLimit>25</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>5th Dilido Tr</DisplayName>
+  </Street>
+  <Street>
+    <Name>4th Dilido Terrace</Name>
+    <SpeedLimit>25</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>4th Dilido Tr</DisplayName>
+  </Street>
+  <Street>
+    <Name>3rd Dilido Terrace</Name>
+    <SpeedLimit>25</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>3rd Dilido Tr</DisplayName>
+  </Street>
+  <Street>
+    <Name>2nd Dilido Terrace</Name>
+    <SpeedLimit>25</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>2nd Dilido Tr</DisplayName>
+  </Street>
+  <Street>
+    <Name>1st Dilido Terrace</Name>
+    <SpeedLimit>25</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>1st Dilido Tr</DisplayName>
+  </Street>
+  <Street>
+    <Name>East Dilido Drive</Name>
+    <SpeedLimit>25</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>E Dilido Dr</DisplayName>
+  </Street>
+  <Street>
+    <Name>West Dilido Drive</Name>
+    <SpeedLimit>25</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>W Dilido Dr</DisplayName>
+  </Street>
+  <Street>
+    <Name>2nd San Marino Terrace</Name>
+    <SpeedLimit>25</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>2nd San Marino Tr</DisplayName>
+  </Street>
+  <Street>
+    <Name>1st San Marino Terrace</Name>
+    <SpeedLimit>25</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>1st San Marino Tr</DisplayName>
+  </Street>
+  <Street>
+    <Name>East San Marino Drive</Name>
+    <SpeedLimit>25</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>E San Marino Dr</DisplayName>
+  </Street>
+  <Street>
+    <Name>West San Marino Drive</Name>
+    <SpeedLimit>25</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>W San Marino Dr</DisplayName>
+  </Street>
+  <Street>
+    <Name>Española Way</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>Española Wy</DisplayName>
+  </Street>
+  <Street>
+    <Name>Lenox Ave</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>Asia Way</Name>
+    <SpeedLimit>25</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>Asia Wy</DisplayName>
+  </Street>
+  <Street>
+    <Name>Australia Way</Name>
+    <SpeedLimit>25</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>Australia Wy</DisplayName>
+  </Street>
+  <Street>
+    <Name>Bridge Road</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>Bridge Rd</DisplayName>
+  </Street>
+  <Street>
+    <Name>Port Boulevard</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>Port Blvd</DisplayName>
+  </Street>
+  <Street>
+    <Name>Biscayne Boulevard</Name>
+    <SpeedLimit>50</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>Biscayne Blvd</DisplayName>
+  </Street>
+  <Street>
+    <Name>Lincoln Road</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>Lincoln Rd</DisplayName>
+  </Street>
+  <Street>
+    <Name>Pine Tree Drive</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>Pine Tree Dr</DisplayName>
+  </Street>
+  <Street>
+    <Name>Indian Creek Drive</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>Indian Creek Dr</DisplayName>
+  </Street>
+  <Street>
+    <Name>Convention Center Drive</Name>
+    <SpeedLimit>25</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>Convention Center Dr</DisplayName>
+  </Street>
+  <Street>
+    <Name>North Venetian Way</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>N Venetian Wy</DisplayName>
+  </Street>
+  <Street>
+    <Name>South Venetian Way</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>S Venetian Wy</DisplayName>
+  </Street>
+  <Street>
+    <Name>Venetian Causway</Name>
+    <SpeedLimit>50</SpeedLimit>
+    <IsHighway>true</IsHighway>
+	<DisplayName>Venetian Cswy</DisplayName>
+  </Street>
+  <Street>
+    <Name>Venetian Way</Name>
+    <SpeedLimit>50</SpeedLimit>
+    <IsHighway>true</IsHighway>
+	<DisplayName>Venetian Wy</DisplayName>
+  </Street>
+  <Street>
+    <Name>MacArthur Causeway</Name>
+    <SpeedLimit>50</SpeedLimit>
+    <IsHighway>true</IsHighway>
+	<DisplayName>Venetian Cswy</DisplayName>
+  </Street>
+  <Street>
+    <Name>West Ave</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>Collins Ave</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>Meridian Ave</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>Prairie Ave</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>East Flagler St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>E Flagler St</DisplayName>
+  </Street>
+  <Street>
+    <Name>West Flagler St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>W Flagler St</DisplayName>
+  </Street>
+  <Street>
+    <Name>Brickell Ave</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>Coral Way</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>Coral Wy</DisplayName>
+  </Street>
+  <Street>
+    <Name>Hernando St</Name>
+    <SpeedLimit>25</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>Biltmore Way</Name>
+    <SpeedLimit>25</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>Biltmore Wy</DisplayName>
+  </Street>
+  <Street>
+    <Name>De Soto Blvd</Name>
+    <SpeedLimit>25</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>Granada Blvd</Name>
+    <SpeedLimit>25</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>Alhambra Circle</Name>
+    <SpeedLimit>25</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>Alhambra Cr</DisplayName>
+  </Street>
+  <Street>
+    <Name>Ferdinand St</Name>
+    <SpeedLimit>25</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>Chopin Plaza</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>Grand Ave</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>Oak Ave</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>Virginia St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>Mary St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>Tigertail Ave</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>Matilda St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>Florida Ave</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>Dolphin East-West Expressway</Name>
+    <SpeedLimit>50</SpeedLimit>
+    <IsHighway>true</IsHighway>
+	<DisplayName>Dolphin Expwy</DisplayName>
+  </Street>
+  <Street>
+    <Name>Interstate-95</Name>
+    <SpeedLimit>50</SpeedLimit>
+    <IsHighway>true</IsHighway>
+	<DisplayName>I-95</DisplayName>
+  </Street>
+  <Street>
+    <Name>I-95 Northbound</Name>
+    <SpeedLimit>50</SpeedLimit>
+    <IsHighway>true</IsHighway>
+	<DisplayName>I-95 North</DisplayName>
+  </Street>
+  <Street>
+    <Name>I-95 Southbound</Name>
+    <SpeedLimit>50</SpeedLimit>
+    <IsHighway>true</IsHighway>
+	<DisplayName>I-95 South</DisplayName>
+  </Street>
+  <Street>
+    <Name>Dolphin Expressway Eastbound</Name>
+    <SpeedLimit>50</SpeedLimit>
+    <IsHighway>true</IsHighway>
+	<DisplayName>Dolphin Expwy East</DisplayName>
+  </Street>
+  <Street>
+    <Name>Dolphin Expressway Westbound</Name>
+    <SpeedLimit>50</SpeedLimit>
+    <IsHighway>true</IsHighway>
+	<DisplayName>Dolphin Expwy West</DisplayName>
+  </Street>
+  <Street>
+    <Name>South Dixie Highway</Name>
+    <SpeedLimit>50</SpeedLimit>
+    <IsHighway>true</IsHighway>
+	<DisplayName>S Dixie Hwy</DisplayName>
+  </Street>
+  <Street>
+    <Name>Biscayne Blvd Way</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>Biscayne Blvd Wy</DisplayName>
+  </Street>
+  <Street>
+    <Name>NW 1st St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>NW 3rd St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>NW 6th St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>NW 7th St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>NW 10th St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>NW 12th St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>NW 17th St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>NW 7th Ct</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>NW Miami Ct</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>SW 1st St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>SW 3rd Ave</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>SW 4th Ave</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>SW 5th Ave</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>SW 7th Ave</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>SW 13th Ave</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>SW 27th Ave</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>SW 15th Road</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>SW 15th Rd</DisplayName>
+  </Street>
+  <Street>
+    <Name>NE 1st ave</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>NE 3rd St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>NE 6th St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>NE 8th St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>NE 15th St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>SE 1st St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>SE 2nd St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>SE 3rd St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>SE 4th St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+  <Street>
+    <Name>Mercy Way</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>Mercy Wy</DisplayName>
+  </Street>
+  <Street>
+    <Name>Tamiami Trail</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>Tamiami Tr</DisplayName>
+  </Street>
+  <Street>
+    <Name>South Miami Drive</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>S Miami Dr</DisplayName>
+  </Street>
+  <Street>
+    <Name>South Miami Ave</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>S Miami Ave</DisplayName>
+  </Street>
+  <Street>
+    <Name>South Bayshore Drive</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>S Bayshore Dr</DisplayName>
+  </Street>
+  <Street>
+    <Name>North Tamiami Trail</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>N Tamiami Tr</DisplayName>
+  </Street>
+  <Street>
+    <Name>South Tamiami Trail</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+	<DisplayName>S Tamiami Tr</DisplayName>
+  </Street>
+  <Street>
+    <Name>McDonald St</Name>
+    <SpeedLimit>30</SpeedLimit>
+    <IsHighway>false</IsHighway>
+  </Street>
+</ArrayOfStreet>
