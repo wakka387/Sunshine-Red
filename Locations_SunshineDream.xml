@@ -2568,7 +2568,7 @@
       <BannerImagePath />
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>252</MapIcon>
+      <MapIcon>893</MapIcon>
       <MapIconColorString>White</MapIconColorString>
       <MapIconScale>0.5</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
@@ -3089,6 +3089,113 @@
       <RestrictAssaultSpawningUsingPedSpawns>false</RestrictAssaultSpawningUsingPedSpawns>
       <AssaultSpawnHeavyWeaponsPercent>80</AssaultSpawnHeavyWeaponsPercent>
     </PoliceStation>
+	<PoliceStation>
+      <Name>NOoSE Depot</Name>
+      <FullName>NOoSE Depot</FullName>
+      <Description>Let's tighten the noose!</Description>
+      <IsEnabled>true</IsEnabled>
+      <IsTemporarilyClosed>false</IsTemporarilyClosed>
+      <BannerImagePath />
+      <RemoveBanner>false</RemoveBanner>
+      <IsBlipEnabled>true</IsBlipEnabled>
+      <MapIcon>60</MapIcon>
+      <MapIconColorString>Blue</MapIconColorString>
+      <MapIconScale>0.5</MapIconScale>
+      <MapIconRadius>1</MapIconRadius>
+      <MapOpenIconAlpha>1</MapOpenIconAlpha>
+      <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
+      <EntrancePosition>
+        <X>921.783</X>
+        <Y>1727.498</Y>
+        <Z>2.678</Z>
+      </EntrancePosition>
+      <EntranceHeading>210.8405</EntranceHeading>
+      <OpenTime>0</OpenTime>
+      <CloseTime>24</CloseTime>
+      <InteriorID>-1</InteriorID>
+      <IsWalkup>false</IsWalkup>
+      <IsOnSPMap>true</IsOnSPMap>
+      <IsOnMPMap>true</IsOnMPMap>
+      <ShowsOnDirectory>true</ShowsOnDirectory>
+      <ShowsOnTaxi>true</ShowsOnTaxi>
+      <TypeName>Police Station</TypeName>
+      <SortOrder>999</SortOrder>
+      <StateID>Leonida</StateID>
+      <ScannerFilePath />
+      <ActivateCells>4</ActivateCells>
+      <ActivateDistance>225</ActivateDistance>
+	  <AssignedAssociationID>NOOSE</AssignedAssociationID>
+      <DisableRegularInteract>false</DisableRegularInteract>
+      <CameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </CameraPosition>
+      <CameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </CameraDirection>
+      <CameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </CameraRotation>
+      <CanInteractWhenWanted>false</CanInteractWhenWanted>
+      <ShowsMarker>true</ShowsMarker>
+      <VendorLocations />
+      <ExtaVendorSpawnPercentage>70</ExtaVendorSpawnPercentage>
+      <VendorPersonnelID>VendorPeds</VendorPersonnelID>
+      <VendorMeleeWeaponsID>VendorMeleeWeapons</VendorMeleeWeaponsID>
+      <VendorSidearmWeaponsID>VendorSidearms</VendorSidearmWeaponsID>
+      <VendorLongGunWeaponsID>VendorLongGuns</VendorLongGunWeaponsID>
+      <VendorMeleePercent>20</VendorMeleePercent>
+      <VendorSidearmPercent>5</VendorSidearmPercent>
+      <VendorLongGunPercent>2</VendorLongGunPercent>
+      <VendorMoneyMin>-1</VendorMoneyMin>
+      <VendorMoneyMax>-1</VendorMoneyMax>
+      <VendorFightPercentage>-1</VendorFightPercentage>
+      <VendorCallPolicePercentage>-1</VendorCallPolicePercentage>
+      <VendorCallPoliceForSeriousCrimesPercentage>-1</VendorCallPoliceForSeriousCrimesPercentage>
+      <VendorFightPolicePercentage>-1</VendorFightPolicePercentage>
+      <VendorCowerPercentage>-1</VendorCowerPercentage>
+      <VendorSurrenderPercentage>-1</VendorSurrenderPercentage>
+      <VehiclePreviewCameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraPosition>
+      <VehiclePreviewCameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraDirection>
+      <VehiclePreviewCameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </VehiclePreviewCameraRotation>
+      <VehicleDeliveryLocations />
+      <RegisterCashMin>250</RegisterCashMin>
+      <RegisterCashMax>1550</RegisterCashMax>
+      <NoEntryCam>false</NoEntryCam>
+      <MinPriceRefreshHours>0</MinPriceRefreshHours>
+      <MaxPriceRefreshHours>0</MaxPriceRefreshHours>
+      <MinRestockHours>0</MinRestockHours>
+      <MaxRestockHours>0</MaxRestockHours>
+      <CloseRange>10</CloseRange>
+      <IgnoreEntranceInteract>false</IgnoreEntranceInteract>
+      <LicensePlatePreviewText>UNIT1</LicensePlatePreviewText>
+      <RespawnLocation>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </RespawnLocation>
+      <RespawnHeading>0</RespawnHeading>
+      <MaxAssaultSpawns>15</MaxAssaultSpawns>
+      <RestrictAssaultSpawningUsingPedSpawns>false</RestrictAssaultSpawningUsingPedSpawns>
+      <AssaultSpawnHeavyWeaponsPercent>80</AssaultSpawnHeavyWeaponsPercent>
+    </PoliceStation>
   </PoliceStations>
   <Hospitals>
     <Hospital>
@@ -3415,7 +3522,7 @@
       <BannerImagePath />
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>621</MapIcon>
+      <MapIcon>889</MapIcon>
       <MapIconColorString>White</MapIconColorString>
       <MapIconScale>0.5</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
@@ -3512,7 +3619,7 @@
       <BannerImagePath />
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>621</MapIcon>
+      <MapIcon>889</MapIcon>
       <MapIconColorString>White</MapIconColorString>
       <MapIconScale>0.5</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
@@ -3609,7 +3716,7 @@
       <BannerImagePath />
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>621</MapIcon>
+      <MapIcon>889</MapIcon>
       <MapIconColorString>White</MapIconColorString>
       <MapIconScale>0.5</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
@@ -3706,7 +3813,7 @@
       <BannerImagePath />
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>621</MapIcon>
+      <MapIcon>889</MapIcon>
       <MapIconColorString>White</MapIconColorString>
       <MapIconScale>0.5</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
@@ -3803,7 +3910,7 @@
       <BannerImagePath />
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>621</MapIcon>
+      <MapIcon>889</MapIcon>
       <MapIconColorString>White</MapIconColorString>
       <MapIconScale>0.5</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
@@ -3900,7 +4007,7 @@
       <BannerImagePath />
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>621</MapIcon>
+      <MapIcon>889</MapIcon>
       <MapIconColorString>White</MapIconColorString>
       <MapIconScale>0.5</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
@@ -3997,7 +4104,7 @@
       <BannerImagePath />
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>621</MapIcon>
+      <MapIcon>889</MapIcon>
       <MapIconColorString>White</MapIconColorString>
       <MapIconScale>0.5</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
@@ -4094,7 +4201,7 @@
       <BannerImagePath />
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>621</MapIcon>
+      <MapIcon>889</MapIcon>
       <MapIconColorString>White</MapIconColorString>
       <MapIconScale>0.5</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
@@ -4191,7 +4298,7 @@
       <BannerImagePath />
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>621</MapIcon>
+      <MapIcon>889</MapIcon>
       <MapIconColorString>White</MapIconColorString>
       <MapIconScale>0.5</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
@@ -4389,7 +4496,7 @@
       <BannerImagePath>stores\pipedown.png</BannerImagePath>
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>648</MapIcon>
+      <MapIcon>436</MapIcon>
       <MapIconColorString>White</MapIconColorString>
       <MapIconScale>0.5</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
@@ -4485,7 +4592,7 @@
       <BannerImagePath>stores\pipedown.png</BannerImagePath>
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>648</MapIcon>
+      <MapIcon>436</MapIcon>
       <MapIconColorString>White</MapIconColorString>
       <MapIconScale>0.5</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
@@ -4581,7 +4688,7 @@
       <BannerImagePath>stores\pipedown.png</BannerImagePath>
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>648</MapIcon>
+      <MapIcon>436</MapIcon>
       <MapIconColorString>White</MapIconColorString>
       <MapIconScale>0.5</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
@@ -4677,7 +4784,7 @@
       <BannerImagePath>stores\pipedown.png</BannerImagePath>
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>648</MapIcon>
+      <MapIcon>436</MapIcon>
       <MapIconColorString>White</MapIconColorString>
       <MapIconScale>0.5</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
@@ -4773,7 +4880,7 @@
       <BannerImagePath>stores\pipedown.png</BannerImagePath>
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>648</MapIcon>
+      <MapIcon>436</MapIcon>
       <MapIconColorString>White</MapIconColorString>
       <MapIconScale>0.5</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
@@ -5898,7 +6005,7 @@
       <BannerImagePath />
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>59</MapIcon>
+      <MapIcon>827</MapIcon>
       <MapIconColorString>White</MapIconColorString>
       <MapIconScale>0.5</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
@@ -5994,7 +6101,7 @@
       <BannerImagePath />
       <RemoveBanner>false</RemoveBanner>
       <IsBlipEnabled>true</IsBlipEnabled>
-      <MapIcon>59</MapIcon>
+      <MapIcon>827</MapIcon>
       <MapIconColorString>White</MapIconColorString>
       <MapIconScale>0.5</MapIconScale>
       <MapIconRadius>1</MapIconRadius>
